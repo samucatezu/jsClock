@@ -1,4 +1,8 @@
 <h1 align="center">
+  <a href="https://samucatezu.github.io/jsClock/">Site do programa :alarm_clock: </a>
+</h1>
+
+<h1 align="center">
   <img alt="jsclock" title="jsclock" src="./.github/example.png"  />
 </h1>
 
