@@ -1,9 +1,10 @@
 <h1 align="center">
   <img alt="jsclock" title="jsclock" src="./.github/example.png"  />
 </h1>
-<br/>
-## 🚀 Tecnologias
 
+<br/>
+
+## 🚀 Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
 - CSS
