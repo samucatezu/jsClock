@@ -3,7 +3,13 @@
 </h1>
 
 <h1 align="center">
-  <img alt="jsclock" title="jsclock" src="./.github/example.png"  />
+  Desktop and mobile versions
+  <img alt="jsclock" title="jsclock" src="./.github/example.png" />
+</h1>
+
+<h1 style="display: flex" align="center">
+ 
+  <img alt="jsclock" title="jsclock" src="./.github/mobile.png"  style="height:896px; width:414px; display: flex" />
 </h1>
 
 <br/>
