@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
-- CSS
+- CSS com responsividade
 - HTML5
 - JavaScript: getHours, getMinutes, getSeconds, getDay, toLocaleString, getFullYear
 
